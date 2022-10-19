@@ -1,0 +1,38 @@
+[
+    {
+        "firstname": "Tasnova Ahmed",
+        "lastname": "Apon",
+        "age": "21",
+        "pass": "I love burger",
+        "email": "tasnova.ahmed2001@gmail.com",
+        "designation": "student",
+        "filepath": "..\/uploads\/desktop_pic"
+    },
+    {
+        "firstname": "Tasnova Ahmed",
+        "lastname": "Apon",
+        "age": "21",
+        "pass": null,
+        "email": "tasnova.ahmed2001@gmail.com",
+        "designation": "studentr",
+        "filepath": "..\/uploads\/dekstop_pic.jpg"
+    },
+    {
+        "firstname": "Tasnova Ahmed",
+        "lastname": "Apon",
+        "age": "21",
+        "password": "1234",
+        "email": "tasnova.ahmed2001@gmail.com",
+        "designation": "studentr",
+        "filepath": "..\/uploads\/dekstop_pic.jpg"
+    },
+    {
+        "firstname": "Tasnova Ahmed",
+        "lastname": "Apon",
+        "age": "21",
+        "password": "1234",
+        "email": "tasnova.ahmed2001@gmail.com",
+        "designation": "studentr",
+        "filepath": "..\/uploads\/dekstop_pic.jpg"
+    }
+]

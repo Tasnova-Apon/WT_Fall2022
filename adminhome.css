@@ -1,0 +1,27 @@
+body
+{
+    background-color: rgb(226, 205, 205);
+}
+
+.flex-container
+{
+display: -webkit-flex;
+display: flex;
+-webkit-flex-direction: column;
+flex-direction: column;
+margin-left: 256px;
+width: auto;
+height: auto;
+-webkit-flex-wrap: wrap;
+flex-wrap: wrap;
+}
+
+.flex-item
+{
+width: auto;
+height: auto;
+margin: 10px;
+margin-left: auto;
+margin-right: auto;
+}
+

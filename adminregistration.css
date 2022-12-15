@@ -1,0 +1,134 @@
+*
+{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-decoration: none;
+
+}
+
+.bodycolor
+{
+    background-color: rgb(212, 241, 201);
+}
+
+#denger
+{
+    background-color: red;
+    color: white;
+    text-align: center;
+    border-radius: 5px;
+    margin-left: 5px;
+    margin-right: 8px;
+    padding: 9px;
+}
+
+#success 
+{
+    color: white;
+    background-color: forestgreen;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+#info
+{
+    color: rgb(5,5,5);
+}
+
+form
+{
+    width: 800px;
+    background-color: MediumSeaGreen;
+    padding: 50px 100px;
+    border-radius: 30px;
+    margin-top: 40px;
+    margin-left: 25%;
+    
+    
+}
+
+
+
+h1
+{
+    text-align: center;
+    margin-top: 10px;
+}
+
+.p
+{
+    color: white;
+}
+
+.h2
+{
+    text-align: center;
+    font-size: 30px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    margin-left: 5px;
+    background-color: rgb(5,5,5);
+    color: white;
+    padding: 5px;
+    border-radius: 15px;
+}
+
+input[type=text], input[type=password]
+{
+    background-color: #f2f4f6;
+    padding: 12px;
+    margin: 8px 0;
+    display: inline-block;
+    border: none;
+    width: 290px;
+    padding-left: 10px;
+    box-sizing: border-box;
+    border-radius: 15px;
+}
+
+.inputrequestbutton
+{
+    width: 290px;
+    background-color: rgb(5, 5, 5);
+    padding: 8px;
+    border: none;
+    font-size: 16px;
+    font-weight: 500;
+    color: white;
+    margin-left: 150px;
+    transition: background-color 0.4s;
+    border-radius: 10px;
+}
+
+.inputrequestreturn
+{
+    width: 100px;
+    background-color:rgb(5, 5, 5);
+    padding: 8px;
+    border: none;
+    font-size: 16px;
+    font-weight: 500;
+    color: white;
+    margin-left: 30px;
+    transition: background-color 0.4s;
+    border-radius: 10px;
+}
+
+.inputrequestbutton:hover
+{
+    opacity: 0.8;
+    background-color:rgb(5, 5, 5);
+}
+
+.inputrequestreturn:hover
+{
+    opacity: 0.8;
+    background-color:rgb(5, 5, 5);
+}
+
+.container
+{
+    padding: 1px;
+}
